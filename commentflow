@@ -1,0 +1,32 @@
+void setup()
+{
+  //initialize screen
+}
+void loop()
+{
+  //get serial input
+  //parse input into command and #
+  //if(command == "PS")
+  //{
+  //  draw rect. 1 red
+  //  toggle relay[#] on
+  //  delay 1s
+  //  toggle relay[#] off
+  //}
+  //else if(command == "PR")
+  //{
+  //  draw rect. 1 green
+  //}
+  //else if(command == "PB")
+  //{
+  //  draw rect. 2 blue
+  //}
+  //else if(command == "PE)
+  //{
+  //  draw rect. 3 blue
+  //}
+  //else if(command == "RS")
+  //{
+  //  draw rect. 1 green
+  //}
+}
